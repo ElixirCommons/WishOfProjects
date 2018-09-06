@@ -4,3 +4,5 @@
 * Repo with example/instructions on setting up GraphQL/Absinthe with postges backend non-etco
 * Json
 * Telemetry setup with Datadog for Elixir (Maybe New Relic)
+* Terraform example Setup project
+* CI/CD Setup Example
