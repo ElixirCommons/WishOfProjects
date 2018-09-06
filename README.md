@@ -6,3 +6,4 @@
 * Telemetry setup with Datadog for Elixir (Maybe New Relic)
 * Terraform example Setup project
 * CI/CD Setup Example
+* Request Logging Json with Plug with Pluggable backend
